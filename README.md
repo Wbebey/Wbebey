@@ -19,7 +19,6 @@
 ---
 <!-- Bio -->
 <p align="center">
-  <br>
   🔬 I'm currently studying for a <b>Master's degree</b> at <b>EPITECH</b> in <b>Cloud & Security Engineering</b>
   <br>
   💻 I'm currently working at <b><a href="https://armis.tech/" target="blank">Armis.tech</a></b> in <b>Apprenticeship</b> as a <b>DevOps Engineer</b>
@@ -155,10 +154,8 @@
 </table>
 </p>
 
----
 <!-- Github Stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
 <h2 align="center"><b>⚡ Stats ⚡</b></h2>
 <br>
 <p align=center>
@@ -190,3 +187,5 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21g22pwtdl6hmymqud6blsadi&width=1000"/>
   </p>
 </details>
+
+<img src="https://camo.githubusercontent.com/894d9318f113dffa68985e084ee883de486eb904cea32ae2cc20cbb717c132a5/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d3231673232707774646c36686d796d71756436626c736164692677696474683d31303030"/>
