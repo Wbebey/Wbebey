@@ -13,7 +13,7 @@
 <br>
 <h5 align="center">
     <img height="27" src="https://visitor-badge.glitch.me/badge?page_id=Wbebey.Wbebey">
-  <a href="https://www.linkedin.com/in/wilfried-jr-bebey/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wilfried-jr-bebey"/></a> 
+  <a href="https://www.linkedin.com/in/wilfried-jr-bebey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wilfried-jr-bebey"/></a> 
 </h5>
 
 ---
@@ -21,7 +21,7 @@
 <p align="center">
   🔬 I'm currently studying for a <b>Master's degree</b> at <b>EPITECH</b> in <b>Cloud & Security Engineering</b>
   <br>
-  💻 I'm currently working at <b><a href="https://armis.tech/" target="blank">Armis.tech</a></b> in <b>Apprenticeship</b> as a <b>DevOps Engineer</b>
+  💻 I'm currently working at <b><a href="https://armis.tech/" target="_blank">Armis.tech</a></b> in <b>Apprenticeship</b> as a <b>DevOps Engineer</b>
   <br>
   🎓 I graduated from <b>Bachelor's degree</b> at <b>EPITECH</b> in <b>Computer Engineering</b>
   <br>
@@ -29,14 +29,13 @@
   <br>
   💻 I love doing some infrastruture & automation things and learn anythings about it
   <br>
-  📚 I’m currently learning how to build a complete CI/CI with Jenkins and Kubernetes
+  📚 I’m currently learning how to build a complete <b>CI/CD</b> with <b>Jenkins</b> and <b>Kubernetes</B>
   <br>
 </p>
 
 ---
 <!-- Languages -->
 <h2 align="center"><b>🔥 Languages & Frameworks & Tools & Abilities 🔥</b></h2>
-<br>
 <p align="center">
   <table>
   <tr>
@@ -103,10 +102,10 @@
       <br>GCP
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      <a href="https://www.gnu.org/software/bash/" >
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="48" height="48" alt="Bash" />
       </a>
-      <br>Kubernetes
+      <br>Bash
     </td>
     <td align="center"  width="96">
       <a href="https://www.jenkins.io/">
@@ -156,6 +155,7 @@
 
 <!-- Github Stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
+<br>
 <h2 align="center"><b>⚡ Stats ⚡</b></h2>
 <br>
 <p align=center>
@@ -180,12 +180,9 @@
 <!-- https://spotify-recently-played-readme.vercel.app/ -->
 
 <details align="center">
-  <summary><b>In my opinion, music is fuel of soul...</b</summary>
-  <p>....and maybe we can have the mood</p>
-  <p align="center">
-  <br>
+    <summary><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/headphone_1f3a7.png" width="15" height="15" alt="Ubuntu" /> In my opinion, music is fuel of soul...</summary>
+    <p>....and probably we could have the same mood</p>
+    <p align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21g22pwtdl6hmymqud6blsadi&width=1000"/>
-  </p>
+    </p>
 </details>
-
-<img src="https://camo.githubusercontent.com/894d9318f113dffa68985e084ee883de486eb904cea32ae2cc20cbb717c132a5/68747470733a2f2f73706f746966792d726563656e746c792d706c617965642d726561646d652e76657263656c2e6170702f6170693f757365723d3231673232707774646c36686d796d71756436626c736164692677696474683d31303030"/>
