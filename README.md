@@ -19,13 +19,11 @@
 ---
 <!-- Bio -->
 <p align="center">
-  🔬 I am currently studying for a <b>Master's degree</b> at <b>EPITECH</b> in <b>Cloud & Security Engineering</b>
+  🔬 I am currently studying for a <b>Master's degree</b> at <b><a href="https://www.epitech.eu" target="_blank">EPITECH</a></b> in <b>Cloud Architechture</b>
   <br>
   💻   I am also working at <b><a href="https://armis.tech/" target="_blank">Armis.tech</a></b> in <b>Apprenticeship</b> as a <b>DevOps Engineer</b>
   <br>
-  🎓  I graduated from <b>Bachelor's degree</b> at <b>EPITECH</b> in <b>Computer Engineering</b>
-  <br>
-  🎓  I graduated from <b>Associate's degree</b> (BTS) at <b>IPSSI</b> in <b>Network & System</b>
+  🎓  Before my master, i had an <b>Associate's degree</b> (BTS), <br>Then a <b>Bachelor's degree</b> at <b><a href="https://www.epitech.eu" target="_blank">EPITECH</a></b> in <b>Computer Science</b>
   <br>
   💻   I love building robust infrastruture, make automation things and learn anything new
   <br>
@@ -64,14 +62,8 @@
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="https://git-scm.com/">
-        <img src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="96">
       <a href="https://www.terraform.io/">
-        <img src="https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png" width="48" height="48" alt="Terraform" />
+        <img src="https://egkatzioura.files.wordpress.com/2020/01/terraform.png" width="48" height="48" alt="Terraform" />
       </a>
       <br>Terraform
     </td>
@@ -83,7 +75,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://kubernetes.io/">
-        <img src="https://assets.stickpng.com/images/58480a44cef1014c0b5e4917.png" width="48" height="48" alt="kubernetes" />
+        <img src="https://paranoiaque.fr/wp-content/uploads/2019/07/533a30ab9c.png" width="48" height="48" alt="kubernetes" />
       </a>
       <br>Kubernetes
     </td>
@@ -133,13 +125,13 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.postgresql.org/">
-        <img src="https://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png" width="48" height="48" alt="PostgreSQL" />
+        <img src="https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo-512x512.png" width="60" height="50" alt="PostgreSQL" />
       </a>
       <br>PostgreSQL
     </td>
     <td align="center"  width="96">
       <a href="https://www.mongodb.com/">
-        <img src="https://assets.stickpng.com/thumbs/58481021cef1014c0b5e494b.png" width="48" height="48" alt="MongoDB" />
+        <img src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
@@ -154,12 +146,6 @@
         <img src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" width="48" height="48" alt="Grafana" />
       </a>
       <br>Grafana
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.postman.com/" >
-        <img src="https://bit.ly/3AEqKxz" width="48" height="48" alt="Postman" />
-      </a>
-      <br>Postman
     </td>
   </tr>
 </table>
@@ -192,7 +178,7 @@
 <!-- https://spotify-recently-played-readme.vercel.app/ -->
 
 <details align="center">
-    <summary><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/headphone_1f3a7.png" width="15" height="15" alt="Ubuntu" /> In my opinion, music is fuel of soul...</summary>
+    <summary><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/headphone_1f3a7.png" width="15" height="15" alt="Ubuntu" /> Work in music makes me happy...</summary>
     <p>....and probably we could have the same mood</p>
     <p align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21g22pwtdl6hmymqud6blsadi&width=1000"/>
