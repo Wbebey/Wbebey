@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">
     <b><a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Wil+👋;Welcome+to+my+profile!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Willy+👋;Welcome+to+my+profile!&center=true&size=30">
     </a></b>
   </h1>
   <img align="left" width="150" height="150" alt="Wbebey" src="img/hey.png"/>
@@ -19,17 +19,17 @@
 ---
 <!-- Bio -->
 <p align="center">
-  🔬 I'm currently studying for a <b>Master's degree</b> at <b>EPITECH</b> in <b>Cloud & Security Engineering</b>
+  🔬 I am currently studying for a <b>Master's degree</b> at <b>EPITECH</b> in <b>Cloud & Security Engineering</b>
   <br>
-  💻 I'm currently working at <b><a href="https://armis.tech/" target="_blank">Armis.tech</a></b> in <b>Apprenticeship</b> as a <b>DevOps Engineer</b>
+  💻   I am also working at <b><a href="https://armis.tech/" target="_blank">Armis.tech</a></b> in <b>Apprenticeship</b> as a <b>DevOps Engineer</b>
   <br>
-  🎓 I graduated from <b>Bachelor's degree</b> at <b>EPITECH</b> in <b>Computer Engineering</b>
+  🎓  I graduated from <b>Bachelor's degree</b> at <b>EPITECH</b> in <b>Computer Engineering</b>
   <br>
-  🎓 I graduated from <b>Associate's degree</b> (BTS) at <b>IPSSI</b> in <b>Network & System</b>
+  🎓  I graduated from <b>Associate's degree</b> (BTS) at <b>IPSSI</b> in <b>Network & System</b>
   <br>
-  💻 I love doing some infrastruture & automation things and learn anythings about it
+  💻   I love building robust infrastruture, make automation things and learn anything new
   <br>
-  📚 I’m currently learning how to build a complete <b>CI/CD</b> with <b>Jenkins</b> and <b>Kubernetes</B>
+  📚 As you read this, i am actually building a secure <b><a href="https://kubernetes.io" target="_blank">Kubernetes</a></b>  cluster on <b><a href="https://cloud.google.com/kubernetes-engine" target="_blank">GKE</a></b> 
   <br>
 </p>
 
@@ -46,10 +46,10 @@
       <br>Node.JS
     </td>
     <td align="center" width="96">
-      <a href="https://reactjs.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" />
+      <a href="https://go.dev/">
+        <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="48" height="48" alt="Go" />
       </a>
-      <br>React
+      <br>Go
     </td>
     <td align="center" width="96">
       <a href="https://www.python.org/">
@@ -58,10 +58,22 @@
       <br>Python
     </td>
     <td align="center" width="96">
+      <a href="https://www.gnu.org/software/bash/" >
+        <img src="https://bit.ly/3dXFVdh" width="48" height="48" alt="Bash" />
+      </a>
+      <br>Bash
+    </td>
+    <td align="center" width="96">
       <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48" height="48" alt="Git" />
+        <img src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.terraform.io/">
+        <img src="https://blogs.vmware.com/cloudprovider/files/2019/04/og-image-8b3e4f7d-blog-aspect-ratio.png" width="48" height="48" alt="Terraform" />
+      </a>
+      <br>Terraform
     </td>
     <td align="center" width="96">
       <a href="https://www.docker.com/">
@@ -71,7 +83,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://kubernetes.io/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" width="48" height="48" alt="kubernetes" />
+        <img src="https://assets.stickpng.com/images/58480a44cef1014c0b5e4917.png" width="48" height="48" alt="kubernetes" />
       </a>
       <br>Kubernetes
     </td>
@@ -82,19 +94,19 @@
       <br>Ansible
     </td>
     <td align="center" width="96">
-      <a href="https://www.terraform.io/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" width="48" height="48" alt="Terraform" />
+      <a href="https://www.vagrantup.com/" >
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" width="48" height="48" alt="Vagrant" />
       </a>
-      <br>Terraform
+      <br>Vagrant
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://aws.amazon.com/">
         <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96"> 
       <a href="https://cloud.google.com/" >
         <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png" width="48" height="48" alt="GCP" />
@@ -102,10 +114,10 @@
       <br>GCP
     </td>
     <td align="center" width="96">
-      <a href="https://www.gnu.org/software/bash/" >
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" width="48" height="48" alt="Bash" />
+      <a href="https://github.com/features/actions" >
+        <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" width="48" height="48" alt="Github  Action" />
       </a>
-      <br>Bash
+      <br>Action
     </td>
     <td align="center"  width="96">
       <a href="https://www.jenkins.io/">
@@ -115,39 +127,39 @@
     </td>
     <td align="center"  width="96">
       <a href="https://circleci.com/">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/circleci.svg" width="48" height="48" alt="Circleci" />
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/circleci.svg" width="48" height="48" alt="CircleCi" />
       </a>
-      <br>Circleci
+      <br>CircleCi
     </td>
     <td align="center" width="96">
-      <a href="https://www.mysql.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="48" height="48" alt="Mysql" />
+      <a href="https://www.postgresql.org/">
+        <img src="https://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png" width="48" height="48" alt="PostgreSQL" />
       </a>
-      <br>Mysql
+      <br>PostgreSQL
     </td>
     <td align="center"  width="96">
       <a href="https://www.mongodb.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="48" height="48" alt="MongoDB" />
+        <img src="https://assets.stickpng.com/thumbs/58481021cef1014c0b5e494b.png" width="48" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-      <a href="https://www.vagrantup.com/" >
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" width="48" height="48" alt="Vagrant" />
+    <td align="center"  width="96">
+      <a href="https://prometheus.io/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/2066px-Prometheus_software_logo.svg.png" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>Vagrant
+      <br>Prometheus
+    </td>
+    <td align="center" width="96">
+      <a href="https://grafana.com/" >
+        <img src="https://seeklogo.com/images/G/grafana-logo-15BA0AFA8A-seeklogo.com.png" width="48" height="48" alt="Grafana" />
+      </a>
+      <br>Grafana
     </td>
     <td align="center" width="96">
       <a href="https://www.postman.com/" >
-        <img src="https://bit.ly/3jG4Hhb" width="48" height="48" alt="Postman" />
+        <img src="https://bit.ly/3AEqKxz" width="48" height="48" alt="Postman" />
       </a>
       <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="https://ubuntu.com/" >
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
     </td>
   </tr>
 </table>
@@ -160,12 +172,12 @@
 <br>
 <p align=center>
   <div align=center>
-    <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Wbebey&theme=react&border=61dafb&hide_border=true&count_private=true" alt="Wbebey" />
-    <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=Wbebey&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
+    <img align="left" width=385 src="https://github-readme-streak-stats.herokuapp.com/?user=Wbebey&theme=react&border=61dafb&hide_border=true&count_private=true" alt="Wbebey" />
+    <img align="right" width=385 src="https://github-readme-stats.vercel.app/api?username=Wbebey&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wbebey&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=default&border_color=61dafb&hide_border=true&count_private=true" />
+      <img width=340 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wbebey&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=default&border_color=61dafb&hide_border=true&count_private=true" />
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Wbebey&theme=react-dark&bg_color=20232a&hide_border=true&count_private=true" width="100%"/>
