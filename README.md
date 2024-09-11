@@ -1,39 +1,20 @@
 <p align="center">
   <h1 align="center">
     <b><a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Willy+👋;Welcome+to+my+profile!&center=true&size=30">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋&center=true&size=30">
     </a></b>
   </h1>
-  <img align="left" width="150" height="150" alt="Wbebey" src="img/hey.png"/>
-  <img align="right" width="150" height="150" alt="Wbebey" src="img/hi.png"/>
 </p>
 
 <!-- Badges -->
-<h2 align="center"> <b>I am Studying Cloud & Security Engineering with a bit of Software Engineering </b></h2>
-<br>
+<h2 align="center"> <b> Cloud Architect & Software Engineer </b></h2>
 <h5 align="center">
-    <img height="27" src="https://visitor-badge.glitch.me/badge?page_id=Wbebey.Wbebey">
   <a href="https://www.linkedin.com/in/wilfried-jr-bebey/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="wilfried-jr-bebey"/></a> 
 </h5>
 
 ---
-<!-- Bio -->
-<p align="center">
-  🔬 I am currently studying for a <b>Master's degree</b> at <b><a href="https://www.epitech.eu" target="_blank">EPITECH</a></b> in <b>Cloud Architechture</b>
-  <br>
-  💻   I am also working at <b><a href="https://armis.tech/" target="_blank">Armis.tech</a></b> in <b>Apprenticeship</b> as a <b>DevOps Engineer</b>
-  <br>
-  🎓  Before my master, i had an <b>Associate's degree</b> (BTS), <br>Then a <b>Bachelor's degree</b> at <b><a href="https://www.epitech.eu" target="_blank">EPITECH</a></b> in <b>Computer Science</b>
-  <br>
-  💻   I love building robust infrastruture, make automation things and learn anything new
-  <br>
-  📚 As you read this, i am actually building a secure <b><a href="https://kubernetes.io" target="_blank">Kubernetes</a></b>  cluster on <b><a href="https://cloud.google.com/kubernetes-engine" target="_blank">GKE</a></b> 
-  <br>
-</p>
-
----
 <!-- Languages -->
-<h2 align="center"><b>🔥 Languages & Frameworks & Tools & Abilities 🔥</b></h2>
+<h3 align="center"><b>🔥 Languages - Frameworks - Tools 🔥</b></h3>
 <p align="center">
   <table>
   <tr>
@@ -153,34 +134,9 @@
 
 <!-- Github Stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<br>
 <h2 align="center"><b>⚡ Stats ⚡</b></h2>
-<br>
 <p align=center>
   <div align=center>
-    <img align="left" width=385 src="https://github-readme-streak-stats.herokuapp.com/?user=Wbebey&theme=react&border=61dafb&hide_border=true&count_private=true" alt="Wbebey" />
-    <img align="right" width=385 src="https://github-readme-stats.vercel.app/api?username=Wbebey&show_icons=true&theme=react&border_color=61dafb&hide_border=true&count_private=true" />
+    <img  width=385 src="https://github-readme-streak-stats.herokuapp.com/?user=Wbebey&theme=react&border=61dafb&hide_border=true&count_private=true" alt="Wbebey" />
   </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-      <img width=340 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wbebey&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=default&border_color=61dafb&hide_border=true&count_private=true" />
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Wbebey&theme=react-dark&bg_color=20232a&hide_border=true&count_private=true" width="100%"/>
 </p>
-
----
-<br>
-<!-- spotify part -->
-
-<!-- https://res.cloudinary.com/practicaldev/image/fetch/s--K7-WTa5t--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://github.com/JeffreyCA/spotify-recently-played-readme/raw/master/assets/auth.png -->
-
-<!-- https://spotify-recently-played-readme.vercel.app/ -->
-
-<details align="center">
-    <summary><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/headphone_1f3a7.png" width="15" height="15" alt="Ubuntu" /> Work in music makes me happy...</summary>
-    <p>....and probably we could have the same mood</p>
-    <p align="center">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21g22pwtdl6hmymqud6blsadi&width=1000"/>
-    </p>
-</details>
