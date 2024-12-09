@@ -134,7 +134,7 @@
 
 <!-- Github Stats -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<h2 align="center"><b>⚡ Stats ⚡</b></h2>
+<h2 align="center"><b>⚡ Stats. ⚡</b></h2>
 <p align=center>
   <div align=center>
     <img  width=385 src="https://github-readme-streak-stats.herokuapp.com/?user=Wbebey&theme=react&border=61dafb&hide_border=true&count_private=true" alt="Wbebey" />
